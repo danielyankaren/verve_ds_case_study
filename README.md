@@ -11,9 +11,9 @@ Author: Karen Danielyan
 ## Questions/Problems
 
 
-> ** 1. ** Look at the information we have given you and identify 3-5 potential problems you can see with the provided dataset that might make building a classification model difficult.  
-> ** 2. ** Describe briefly how you would find the features that are likely to be the most important for your model.  
-> ** 3. ** Identify which model you would try first, and at least one advantage and disadvantage of this choice.  
+>  1. Look at the information we have given you and identify 3-5 potential problems you can see with the provided dataset that might make building a classification model difficult.  
+>  2. Describe briefly how you would find the features that are likely to be the most important for your model.  
+>  3. Identify which model you would try first, and at least one advantage and disadvantage of this choice.  
 
 
 ## The Answer
